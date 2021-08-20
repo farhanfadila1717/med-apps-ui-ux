@@ -1,0 +1,2 @@
+# MedApss - by Triple F
+Aplikasi yang diberi nama MedApps merupakan sebuah aplikasi yang ditujukan sebagai sarana untuk pelayanan kesehatan pada masyarakat secara efisien dan efektif. Aplikasi ini di buat dengan menggunakan platform berbasis android sebagai dasar dari systemnya. Dengan banyaknya pengguna mobile maka diharapkan pelayanan kesehatan pada masyarakat dapat dilakukan juga secara virtual untuk mempermudah proses konsultasi dengan dokter tanpa harus bertatap muka secara langsung. 
