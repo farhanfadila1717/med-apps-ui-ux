@@ -8,7 +8,7 @@ Aplikasi yang diberi nama MedApps merupakan sebuah aplikasi yang ditujukan sebag
 ---
 
 ### 🚧 Team 
-| [![account avatar][]][github account]|[![fandy avatar][]][fandy account]|[![fuad avatar][]][fandy account]|
+| [![account avatar][]][github account]|[![fandy avatar][]][fandy account]|[![fuad avatar][]][fuad account]|
 | :-----: |:-----: |:-----: |
 |   **Farhan**  |**Fandy**|**Fuad**|
 
